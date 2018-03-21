@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Parse-Server-Starter-Project\ParseStarterProject\src\main\shaders"/></dataSet><dataSet config="demo"><source path="C:\Parse-Server-Starter-Project\ParseStarterProject\src\demo\shaders"/></dataSet><dataSet config="debug"><source path="C:\Parse-Server-Starter-Project\ParseStarterProject\src\debug\shaders"/></dataSet><dataSet config="demoDebug"><source path="C:\Parse-Server-Starter-Project\ParseStarterProject\src\demoDebug\shaders"/></dataSet></merger>
